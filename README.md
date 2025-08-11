@@ -28,7 +28,7 @@
 
 ## 🎧 Spotify - Playing
 
-[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31j4emb6t27hdsu4vybyklnc57v4&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31j4emb6t27hdsu4vybyklnc57v4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)]]
+[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31j4emb6t27hdsu4vybyklnc57v4&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31j4emb6t27hdsu4vybyklnc57v4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)]
 
 
 ## 🚀 Languages and Tools:
