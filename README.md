@@ -11,7 +11,6 @@
 ## 🙋‍♂️ About Me
 
 - 👨‍🎓 I'm a Masters student in **Artificial Intelligence.** 
-- 🐱‍💻 I’m currently learning about **Generative AI .**
 - 🧪 Building in **Generative AI**, **multi-agent evaluation & MLOps**.
 - 🎓 Thesis direction: **Adaptive Multi-Agent Solver Selection for Optimization (MDP)**;
 - 🤝 Open to **AI/ML Working Student** & **Master’s Thesis** roles; keen on OSS collabs.
