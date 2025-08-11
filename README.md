@@ -15,7 +15,6 @@
 - 🎓 Thesis direction: **Adaptive Multi-Agent Solver Selection for Optimization (MDP)**;
 - 🤝 Open to **AI/ML Working Student** & **Master’s Thesis** roles; keen on OSS collabs.
 - 🧑‍💻 Projects: **[My Portfolio](https://alwinpaul.me)**
-- 🧑‍💻 All of my projects are available at **[My Portfolio](https://alwinpaul.me)**
 - 💬 How to reach me **alwin.paulpv@gmail.com**
 - ⚡ Fun fact **I am a workaholic :-P**
 - 🀄 Licensed under the [MIT LICENSE](LICENSE)
