@@ -23,7 +23,7 @@
 <p align="center">
   <a href="https://open.spotify.com/user/31j4emb6t27hdsu4vybyklnc57v4">
     <img alt="Spotify Now Playing"
-         src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31j4emb6t27hdsu4vybyklnc57v4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true">
+         src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31j4emb6t27hdsu4vybyklnc57v4&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true">
   </a>
 </p>
 
