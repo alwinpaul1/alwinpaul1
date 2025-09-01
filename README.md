@@ -41,10 +41,10 @@
      <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <a href="https://jupyter.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48"/> </a>
     <a href="https://pytorch.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48"/> </a>
-    <a href="https://python.langchain.com/" target="_blank"> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" width="48" height="48"/> </a>
+    <a href="https://python.langchain.com/" target="_blank"> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" width="60" height="60"/> </a>
     <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48"/> </a>
-    <a href="https://faiss.ai/" target="_blank"> <img src="https://img.shields.io/badge/FAISS-005C99?style=for-the-badge&logo=facebook&logoColor=white" width="48" height="48"/> </a>
-    <a href="https://www.trychroma.com/" target="_blank"> <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=chromadb&logoColor=white" width="48" height="48"/> </a>
+    <a href="https://faiss.ai/" target="_blank"> <img src="https://img.shields.io/badge/FAISS-005C99?style=for-the-badge&logo=facebook&logoColor=white" width="60" height="60"/> </a>
+    <a href="https://www.trychroma.com/" target="_blank"> <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=chromadb&logoColor=white" width="60" height="60"/> </a>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/></a>
     <a href="https://www.linux.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/linux"></a>
     <a href="https://cloud.google.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/google-cloud"></a>
