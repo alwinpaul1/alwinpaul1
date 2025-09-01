@@ -1,11 +1,16 @@
-<p align="center"></p>
+<p align="center">
 
-<!-- <a href="#"><img height="280px"/></a> -->  
-<a href="https://www.linkedin.com/in/alwin-paul/">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&center=true&lines=Hi%2C+I%27m+Alwin+Paul">
+<!-- <a href="#"><img height="280px" /></a> -->
+
+  <a href="https://www.linkedin.com/in/alwin-paul/">
+    <img
+      src="https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&center=true&lines=Hi%2C+I%27m+Alwin+Paul"
+    />
   </a>
 
-<!-- <h1 align="center">Hi <img width="30px">, I'm Alwin</h1>
+</p>
+
+<!-- <h1 align="center">Hi <img width="30px" />, I'm Alwin</h1>
 <h3 align="center">I'm a passionate Information Security Researcher from India 🇮🇳.</h3> -->
 
 ## 🙋‍♂️ About Me
@@ -23,15 +28,17 @@
 
 <p align="center">
   <a href="https://open.spotify.com/user/31j4emb6t27hdsu4vybyklnc57v4">
-    <img alt="Spotify Now Playing" 
-         src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31j4emb6t27hdsu4vybyklnc57v4&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true">
+    <img
+      alt="Spotify Now Playing"
+      src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31j4emb6t27hdsu4vybyklnc57v4&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true"
+    />
   </a>
 </p>
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
-    <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
+<p align="left">
+     <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
@@ -41,36 +48,38 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
 </p>
 
-<br/>
+</br>
 
 <p align="center">
     <a href="https://github.com/nullpwn">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Alwin Paul's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=alwinpaul1&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img
+         title="🔥 Get streak stats for your profile at git.io/streak-stats"
+         alt="Alwin Paul's streak"
+         src="https://github-readme-streak-stats.herokuapp.com/?user=alwinpaul1&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
 <p align="center">
-<img href="https://github.com/alwinpaul1" height="170em" alt="Alwin Paul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alwinpaul1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-<img href="https://github.com/alwinpaul1" height="170em" alt="Alwin Paul's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwinpaul1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+<img height="170em" alt="Alwin Paul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alwinpaul1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /><img height="170em" alt="Alwin Paul's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwinpaul1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </p>
-
 
 <p align="center">
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 
-
 ## Connect with me:
+
 <p align="left">
-<a href="https://www.linkedin.com/in/alwin-paul/"><img src="https://img.icons8.com/cute-clipart/45/000000/linkedin.png"/></a>
-<a href="https://x.com/_alwinpaul_"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" width="45" height="45"/></a>
+<a href="https://www.linkedin.com/in/alwin-paul/"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
+<a href="https://x.com/_alwinpaul_"><img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" width="45" height="45"/></a>
 <a href="https://www.instagram.com/alwi._nn/"><img src="https://img.icons8.com/color/45/000000/instagram-new.png"/></a>
 <a href="https://www.facebook.com/alwin.paul.4040/"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
 </p>
 
 ## ❤ Views and Followers
+
 <a href="https://github.com/nullpwn">
     <img src="https://komarev.com/ghpvc/?username=alwinpaul1&color=blueviolet">
 </a>
