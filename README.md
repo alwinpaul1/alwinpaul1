@@ -65,7 +65,7 @@
 ## 📊 My Github Stats
 
 <p align="center">
-<img height="170em" alt="Alwin Paul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alwinpaul1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /><img height="170em" alt="Alwin Paul's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwinpaul1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+<img height="170em" alt="Alwin Paul's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=alwinpaul1&show_icons=true&theme=radical" /><img height="170em" alt="Alwin Paul's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwinpaul1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </p>
 
 <p align="center">
