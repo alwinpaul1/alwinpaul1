@@ -15,9 +15,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 👨‍🎓 I'm a Masters student in **Artificial Intelligence.**
+- 👨‍🎓 I'm a Masters student in **Artificial Intelligence** at BTU Cottbus-Senftenberg.
 - 🧪 Building in **Generative AI**, **multi-agent evaluation & MLOps**.
-- 🎓 Thesis direction: **Adaptive Multi-Agent Solver Selection for Optimization (MDP)**;
+- 🎓 Thesis: **Hybrid SNN-ANN Architecture Search for Energy-Efficient Event-Based Object Detection** — optimizing the balance between spiking and conventional neural network layers for neuromorphic vision.
 - 🤝 Open to **AI/ML Working Student** & **Master's Thesis** roles; keen on OSS collabs.
 - 🧑‍💻 Projects: **[My Portfolio](https://alwinpaul.me)**
 - 💬 How to reach me **alwin.paulpv@gmail.com**
